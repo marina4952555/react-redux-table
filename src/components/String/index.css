@@ -1,0 +1,17 @@
+td {
+  border: 1px solid #E3E6EC;
+  line-height: 18px;
+}
+
+.table__id {
+  text-align: center;
+}
+
+.table__title {
+  width: 515px;
+}
+
+.table__title,
+.table__body {
+  padding: 14px 7px;
+}

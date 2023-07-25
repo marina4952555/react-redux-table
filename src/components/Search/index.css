@@ -1,0 +1,27 @@
+form {
+  display: flex;
+}
+
+label {
+  display: block;
+  width: 560px;
+}
+
+input {
+  width: 100%;
+  padding: 18px 26px;
+  border: none;
+  background-color: #5A5C66;
+  color: #B2B7BF;
+  font-size: 14px;
+}
+
+button {
+  padding: 14px 25px;
+  background-color: #5A5C66;
+  border: none;
+}
+
+input:focus-visible {
+  outline: none;
+}
